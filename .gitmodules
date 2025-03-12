@@ -1,0 +1,9 @@
+[submodule "inf8405-projetfinal"]
+	path = inf8405-projetfinal
+	url = git@github.com:dukPake/inf8405-projetfinal.git
+[submodule "inf8405-tp2"]
+	path = inf8405-tp2
+	url = git@github.com:dukPake/inf8405-tp2.git
+[submodule "inf8405-tp1"]
+	path = inf8405-tp1
+	url = git@github.com:dukPake/tp1-8405.git
